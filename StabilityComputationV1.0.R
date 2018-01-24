@@ -1,6 +1,11 @@
 # Stability Properties Computation for Flowcytometric Data V1.0
 # by Florian Centler and Zishu Liu, UFZ Leipzig, Germany
-
+#
+# This script accompanies the paper on "Ecological Stability Properties of
+# Microbial Communities Assessed by Flow Cytometry" by Liu et al., 2018
+# http://msphere.asm.org/content/3/1/e00564-17
+# Please cite this work when using this script.
+#
 # USER INPUT STARTS HERE ======================================================
 #
 # 1. Specify the directory and filename of your experimental data.
